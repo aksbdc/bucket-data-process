@@ -1,0 +1,3 @@
+[submodule "golang-samples"]
+	path = golang-samples
+	url = https://github.com/GoogleCloudPlatform/golang-samples
